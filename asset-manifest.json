@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/balloonpop/static/css/main.90a96f5f.chunk.css",
+    "main.js": "/balloonpop/static/js/main.82d42ce2.chunk.js",
+    "main.js.map": "/balloonpop/static/js/main.82d42ce2.chunk.js.map",
+    "runtime-main.js": "/balloonpop/static/js/runtime-main.18891b19.js",
+    "runtime-main.js.map": "/balloonpop/static/js/runtime-main.18891b19.js.map",
+    "static/js/2.cff7cf37.chunk.js": "/balloonpop/static/js/2.cff7cf37.chunk.js",
+    "static/js/2.cff7cf37.chunk.js.map": "/balloonpop/static/js/2.cff7cf37.chunk.js.map",
+    "static/js/3.1d41f196.chunk.js": "/balloonpop/static/js/3.1d41f196.chunk.js",
+    "static/js/3.1d41f196.chunk.js.map": "/balloonpop/static/js/3.1d41f196.chunk.js.map",
+    "index.html": "/balloonpop/index.html",
+    "static/css/main.90a96f5f.chunk.css.map": "/balloonpop/static/css/main.90a96f5f.chunk.css.map",
+    "static/js/2.cff7cf37.chunk.js.LICENSE.txt": "/balloonpop/static/js/2.cff7cf37.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.18891b19.js",
+    "static/js/2.cff7cf37.chunk.js",
+    "static/css/main.90a96f5f.chunk.css",
+    "static/js/main.82d42ce2.chunk.js"
+  ]
+}
